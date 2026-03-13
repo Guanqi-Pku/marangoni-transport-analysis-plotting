@@ -1,0 +1,30 @@
+# Python environment requirements for microfluidics and particle analysis code
+
+# Core scientific computing
+numpy>=1.20.0
+
+# Image processing and computer vision
+opencv-python>=4.5.0
+Pillow>=8.0.0
+scikit-image>=0.18.0
+
+# Data manipulation and analysis
+pandas>=1.3.0
+openpyxl>=3.0.0
+
+# Visualization and plotting
+matplotlib>=3.3.0
+
+# Scientific computing
+scipy>=1.7.0
+
+# GUI interface
+tkinter
+
+# File I/O
+h5py>=3.7.0
+
+# Additional useful packages for scientific analysis
+seaborn>=0.11.0
+jupyter>=1.0.0
+notebook>=6.4.0
