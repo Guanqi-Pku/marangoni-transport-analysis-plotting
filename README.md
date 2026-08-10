@@ -242,7 +242,7 @@ If you use this repository, please cite the associated manuscript and this code 
 
 ```bibtex
 @misc{guan_marangoni_transport_analysis,
-  author       = {Guan, Qi and Ma, Xiaoli and Guan, Xin and Lou, Jizhong and Qi, Zhi},
+  author       = {Guan, Qi and Ma, Xiaoli and Guan, Xin and Lou, Jizhong and Zhang, Hong and Qi, Zhi},
   title        = {Marangoni Transport Analysis and Plotting Code},
   year         = {2026},
   publisher    = {GitHub},
